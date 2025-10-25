@@ -1,31 +1,99 @@
-[![MasterHead](https://svg-banners.vercel.app/api?type=origin&text1=Deepak%20Barwal%20🤠&text2=💖%20MERN%20Stack&width=800&height=400)](https://deepakbarwal.github.io/biolink)
-<h1 align="center">Hi 👋, I'm Deepak Barwal</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" />
+<h1 align="center">👋 Hey, I'm Deepak Barwal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakbarwal&label=Profile%20views&color=0e75b6&style=flat" alt="deepakbarwal" /> </p>
-
-- 🔭 I’m currently working on **MERN Stack**
-
-- 🌱 I’m currently learning **Backend Development and System Design**
-
-- 💬 Ask me about **MERN (MongoDB, ExpressJS, ReactJS & NodeJS), Javascript**
-
-- 📫 How to reach me **deepakbarwal98@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s5VKAzHDQNL96NaoPAjSpSqvTJqNex2t/view?usp=sharing](https://drive.google.com/file/d/1s5VKAzHDQNL96NaoPAjSpSqvTJqNex2t/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/deepak barwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak barwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepakbarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepakbarwal" height="30" width="40" /></a>
+<p align="center">
+  <samp>Full-Stack Engineer • AI Architect • System Design Enthusiast</samp><br>
+  <samp> Building intelligent systems that merge automation, analytics, and design. </samp>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.deepakbarwal.com/">Portfolio</a> •
+  <a href="https://linkedin.com/in/d-barwal">LinkedIn</a> •
+  <a href="mailto:deepakbarwal.work@gmail.com">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepakbarwal&show_icons=true&locale=en&layout=compact" alt="deepakbarwal" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepakbarwal&show_icons=true&locale=en" alt="deepakbarwal" /></p>
+### 🧭 What I Do
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepakbarwal&" alt="deepakbarwal" /></p>
+Crafting full-stack and AI-driven systems that scale with precision.  
+My work blends **LangGraph**, **FastAPI**, and **Next.js** with structured architectures and intelligent automation.  
+
+I focus on:
+- Multi-agent orchestration and developer productivity tooling  
+- Financial intelligence systems with unified DeFi + TradFi APIs  
+- Scalable design platforms and enterprise automation pipelines  
+
+---
+
+### 🧠 Tech Stack
+
+**Languages:** TypeScript, Python, SQL, JavaScript, C++  
+**Frameworks:** FastAPI, Express.js, Hono, Next.js, React, Node.js  
+**Databases:** PostgreSQL, MongoDB, Redis, MySQL  
+**Infra & Cloud:** Docker, AWS, GitHub Actions, Grafana, Prometheus  
+**Libraries:** LangChain, LangGraph, Prisma, TailwindCSS, Drizzle ORM, Pinecone  
+
+---
+
+### 🚀 Featured Projects  
+
+#### [pdf-gupshup](https://www.deepakbarwal.com/#projects)  
+Conversational PDF assistant built with **Next.js, LangChain, Pinecone**, and **OpenAI**.  
+Implements server-side streaming, authentication, and Stripe-powered monetization with Clerk and Prisma.  
+
+#### [Banalo](https://www.deepakbarwal.com/#projects)  
+End-to-end design platform in **Next.js 15 + Fabric.js**, featuring 20 creative tools, AI background removal,  
+and integrations with **Replicate AI**, Stripe, and Unsplash API.  
+
+#### Financial Intelligence Platform  
+Multi-agent architecture with **LangGraph + FastAPI**, integrating **CoinGecko**, **DeFiLlama**, and **Yodlee**.  
+Manages unified analytics, conversational memory, and sub-2s response speed.  
+
+---
+
+### 🏢 Experience
+
+**Full-Stack Engineer – RedSoft Solutions (2023–Present)**  
+Architected LangGraph-based AI agents, solar design tools, and intelligent automation stacks.  
+Led cross-team initiatives in deployment automation and financial API orchestration.  
+
+**Software Engineer – IBM (2021–2023)**  
+Managed mission-critical energy trading systems, ensuring 99.9% uptime across multi-vendor pipelines.  
+Drove enterprise migration from Oracle to PostgreSQL and implemented Agile CI/CD strategies.  
+
+---
+
+### 🧩 Achievements
+- **Winner**, RedSoft Games 2025 – AI Automation Hackathon  
+- Delivered 8+ enterprise-grade AI agent PoCs and CRM automation suites  
+- Architected 99.9% uptime trading apps at IBM  
+- Developed a blockchain-driven tokenization platform for MosaicAI  
+
+---
+
+### 🎓 Education
+**B.Tech – Computer Science & Engineering**  
+*Maharshi Dayanand University, 2016–2020*  
+
+**Certifications:**  
+- Full-Stack Engineering (100xDevs, 2025)  
+- Advanced Web Development (Algocamp, 2025)  
+- Enterprise Design Thinking Practitioner (IBM)  
+
+---
+
+### 🌐 Connect
+💼 [LinkedIn](https://linkedin.com/in/d-barwal)  
+📫 [deepakbarwal.work@gmail.com](mailto:deepakbarwal.work@gmail.com)  
+🌎 [deepakbarwal.com](https://www.deepakbarwal.com/)
+
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepakBarwal&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakBarwal&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <samp> “Design systems that think before they act.” </samp>
+</p>
